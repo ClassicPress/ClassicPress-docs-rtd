@@ -1,2 +1,4 @@
 # ClassicPress-Docs
-Documentation for ClassicPress
+Documentation for ClassicPress...
+
+Coming soon.
